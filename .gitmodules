@@ -1,0 +1,3 @@
+[submodule "wow64ext"]
+	path = wow64ext
+	url = https://github.com/rwfpl/rewolf-wow64ext.git

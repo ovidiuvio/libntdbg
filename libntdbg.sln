@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libntdbg", "libntdbg.vcxproj", "{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}.Debug|x64.ActiveCfg = Debug|x64
+		{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}.Debug|x64.Build.0 = Debug|x64
+		{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}.Debug|x86.Build.0 = Debug|Win32
+		{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}.Release|x64.ActiveCfg = Release|x64
+		{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}.Release|x64.Build.0 = Release|x64
+		{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}.Release|x86.ActiveCfg = Release|Win32
+		{C401FE4F-22AA-41A0-8BDC-D58D37C1400B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {436D8BF1-C771-4E6A-BE58-4FF8524F4980}
+	EndGlobalSection
+EndGlobal
